@@ -1,0 +1,5 @@
+@media screen and (max-width: 767px) {
+	.fixed .content-wrapper, .fixed .right-side{
+		padding-top: 109px;
+	}
+}
